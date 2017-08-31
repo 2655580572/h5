@@ -15,6 +15,7 @@ public interface TeacherMapper {
 	public List<Teacher> selectTeacherByminmaxAge(ParamMinMax paramMinMax);
 	public int count();
 	public void insert(Teacher teacher);
-	public void deleteById(int id);
-	public void update1(ParamUpdate1 paramUpdate1);
+	public void deleteById(int id);ɭpublic void update1(ParamUpdate1 paramUpdate1);
+	 
+
 }
