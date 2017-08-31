@@ -1,0 +1,8 @@
+1.创建数据创建表
+2.创建web项目, 修改项目属性为Utf-8
+3.加入依赖的架包
+4.配置web.xml文件
+5.配置spring-mvc.xml
+6.配置spring-mybatis.xml
+7.把包创建完
+8.开发
